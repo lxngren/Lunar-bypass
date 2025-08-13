@@ -1,0 +1,7 @@
+{
+    "log_path": "%USERPROFILE%\\.lunarclient\\logs\\launcher\\main.log",
+    "pattern_first": "[Launch] Spawning JVM process with following configuration...",
+    "pattern_second": "[Launch] Starting log file polling",
+    "lunar_path": "%LOCALAPPDATA%\\Programs\\Lunar Client\\Lunar Client.exe",
+    "lunar_jre_base": "%USERPROFILE%\\.lunarclient\\jre"
+}
